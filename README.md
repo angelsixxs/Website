@@ -1,6 +1,9 @@
 # Website Project
+HighLow
 
 ## What it does (1 Paragraph)
+Higher or Lower game where you have to guess which item is more expensive. 
+
 
 ## Team Members
 Angel Navarro - @angelsixxs
@@ -19,7 +22,7 @@ Dalen Ragsdale - @ba1en1
 ## How to contribute
 
 # Whats in progress
-
+- Getting images for Higher Lower
 ## License
 
                     GNU GENERAL PUBLIC LICENSE
