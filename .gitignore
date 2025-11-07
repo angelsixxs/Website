@@ -1,1 +1,9 @@
+# node modules and build output
+node_modules/
+dist/
+build/
 
+# Environment and system files
+.env
+.DS_Store
+#.log
