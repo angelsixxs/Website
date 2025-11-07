@@ -1,6 +1,6 @@
-#Website Project
+# Website Project
 
-##What it does (1 Paragraph)
+## What it does (1 Paragraph)
 
 ## Team Members
 Angel Navarro - @angelsixxs
@@ -11,7 +11,7 @@ Dalen Ragsdale - @ba1en1
 ## Technologies Used
 - HTML, Python
 
-##Project Structures
+## Project Structures
 'src/' - main website files
 'docs/' - documentation or notes
 'assets/' - images, sounds
