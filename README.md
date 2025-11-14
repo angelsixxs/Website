@@ -2,7 +2,7 @@
 HighLow
 
 ## What it does (1 Paragraph)
-Higher or Lower game where you have to guess which item is more expensive. 
+We are committed to making a game in HTML and Python about guessing prices of items using buttons. The website will display two images of items from a grocery store and will ask if item 1 is higher or lower than item 2. The game will track your score and will reset if you guess wrong. If you guess all 10 correctly, then you win the game.
 
 
 ## Team Members
