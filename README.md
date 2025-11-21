@@ -24,6 +24,45 @@ Dalen Ragsdale - @ba1en1
 # Whats in progress
 - Getting images for Higher Lower
 - building the base of the website and making it pop up
+
+## User Stories
+
+### Must Have
+1. As a student, I want to add html and python code, so that our game works
+2. As a user, I want to keep score, so that I have something to work towards
+3. As a user, I want to have working buttons, so that the game is playable
+
+### Nice to Have
+1. As a user, I want to have clear and colorful buttons, so that I can pickup and play the game easier
+2. As a user, I want to have nice pictures, so that the game is more enjoyable
+
+### Stories to Tasks
+Story: User can add code to project
+1. Create python code to run the game (code)
+2. Create the html code to display the information and pictures (frontend)
+3. Test code (Testing)
+
+Story: User can keep score
+1. Create python code to count++ when player guesses correctly (Code)
+2. Connect the python code to display the score on the website (Code)
+3. Test code (Testing)
+
+Story: User has working website buttons
+1. Create buttons in html file for user to click (Code)
+2. Style buttons to fit properly on website with good formatting (Code)
+3. Give buttons functionality in python (Code)
+4. Test that buttons work (Testing)
+
+Story: User has concise and colorful buttons
+1. Edit button functions in html and add color (Code)
+2. Remove excess design for a simplified product (Code)
+3. Test functionality (Testing)
+
+Story: User has clear pictures for game
+1. Create a function to display the proper picture in the higher lower game (Code)
+2. Cycle out the picture for a new picture when player selects an answer (Code)
+3. Test Code (Testing)
+
 ## License
 
                     GNU GENERAL PUBLIC LICENSE
